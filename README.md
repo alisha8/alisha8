@@ -24,8 +24,8 @@ I’m constantly learning new tools and languages, building projects, and sharpe
 ---
 
 ## 📂 Featured Projects
-- **[Diabetes Readmission Predictor](https://github.com/your-username/diabetes-readmission-predictor)** – Predict 30-day hospital readmission using ML and interpret results with SHAP
-- **[Amazon Book Search Automation](https://github.com/alisha8/Amazon-Book-Search-Automation)** - This project uses Playwright to automate the process of searching for books on Amazon.
+- **[Diabetes Readmission Predictor](https://github.com/alisha8/diabetes-readmission-predictor)** – Predict 30-day hospital readmission using ML and interpret results with SHAP
+- **[Amazon Book Search Automation]([https://github.com/alisha8/Amazon-Book-Search-Automation])** - This project uses Playwright to automate the process of searching for books on Amazon.
 - More projects coming soon… 🚀  
 
 ---
